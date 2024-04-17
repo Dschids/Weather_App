@@ -6,6 +6,5 @@
     <string name="sunset">Sunset</string>
     <string name="humidity">Humidity</string>
     <string name="wind">Wind Speed</string>
-    <string name="city">McHenry,</string>
-    <string name="state">IL</string>
+    <string name="city">McHenry, IL</string>
 </resources>
